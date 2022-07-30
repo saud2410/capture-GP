@@ -1,3 +1,4 @@
+[
 /* Great people */
 
 	{
@@ -41,3 +42,4 @@
 			"All adjacent units heal [+15] HP when healing", "[+15] HP when healing", "Can construct [Citadel]", "Great Person - [War]", "Unbuildable"],
 		"movement": 5
 	}
+]
